@@ -4,3 +4,7 @@
 @import "{{ site.theme }}";
 
 /* custom css goes here */
+.test-css {
+  color: blue;
+  font-weight: 700;
+}
