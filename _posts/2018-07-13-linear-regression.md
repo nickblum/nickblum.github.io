@@ -18,14 +18,14 @@ The fundamental goal of machine learning is to write a set of computer instructi
 
 As people, most of us are already pretty good at spotting trends and making predictions about our environment:
 
-_Johnny and Morton both got motorcycles..._ **(observation)**  
-_Maybe I should get a motorcycle, too?_ **(prediction/trend)**  
+>_Johnny and Morton both got motorcycles..._ **(observation)**  
+>_Maybe I should get a motorcycle, too?_ **(prediction/trend)**  
 
-_You ate the last piece of cake?!_ **(observation)**  
-_I CAN NEVER TRUST YOU AGAIN!!!_ **(prediction/trend)**
+>_You ate the last piece of cake?!_ **(observation)**  
+>_I CAN NEVER TRUST YOU AGAIN!!!_ **(prediction/trend)**
 
-_If Johnny keeps stealing all of the cake..._ **(observation)**  
-_He may become too heavy for his motorcycle._ **(prediction/trend)**
+>_If Johnny keeps stealing all of the cake..._ **(observation)**  
+>_He may become too heavy for his motorcycle._ **(prediction/trend)**
 
 We can often represent these intuitions visually to help quickly get the point accross to other humans:
 
