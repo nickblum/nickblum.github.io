@@ -16,8 +16,8 @@ My intent in this blog is to chronicle my journey up Machine Learning Mountain a
 
 A couple of the fundamental goals of machine learning are to 1) identify trends and 2) make predictions given a set of observations. But as humans, pattern recognition and predictions are our some of our finest qualities. For example:
 
-_Johnny and Morton both got motorcycles..._ [observation] _Maybe I should get a motorcycle, too?_ [prediction/trend]  
-_You ate the last piece of cake?!_ [observation] _I can never trust you again!_ [prediction/trend]
+_Johnny and Morton both got motorcycles..._ **(observation)** _Maybe I should get a motorcycle, too?_ **(prediction/trend)**  
+_You ate the last piece of cake?!_ **(observation)** _I can never trust you again!_ **(prediction/trend)**
 
 We can often represent these truths visually to help get the point accross to other humans:
 
