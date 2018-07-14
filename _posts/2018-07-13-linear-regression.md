@@ -22,7 +22,7 @@ _Maybe I should get a motorcycle, too?_ **(prediction/trend)**
 _You ate the last piece of cake?!_ **(observation)**  
 _I CAN NEVER TRUST YOU AGAIN!!!_ **(prediction/trend)**
 
-We can often represent these truths visually to help get the point accross to other humans:
+We can often represent these intuitions visually to help get the point accross to other humans:
 
 ### Plots
 
