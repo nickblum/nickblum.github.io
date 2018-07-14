@@ -10,11 +10,13 @@ I had contemplated the field of machine learning during college, and even took g
 
 With eerie sychronicity, a couple of weeks after my son's birth and while strenuously contemplating _how exactly to stop playing grab-ass and start making something happen_, I received an invitation to an online "Data Science" scholarship competition. It was a dumb competition (i.e., I didn't get selected), but it reignited that same excitement for the field that had captivated me years before. With an endless internet of resources, I began charting my new course.
 
-My intent in this blog is to chronicle my journey up Machine Learning Mountain and provide a place where I can explain my passion hobby to my family in practical terms. I'll also try to demonstrate personally meaningful implementations of the tools I encounter along the way.
+My intent in this blog is to chronicle my journey up Machine Learning Mountain and provide a place where I can explain my passion hobby, goals and ultimate vision to my family in practical terms. I'll also try to demonstrate personally meaningful implementations of the tools I encounter along the way.
 
 ## Sticks and Stones
 
-The fundamental goal of "machine learning" is to give a computer a set of steps to follow so that it can make predictions given a set of observations, kind of like, ya know, _learning_. But as humans, pattern recognition and predictions are our some of our finest qualities. For example:
+The fundamental goal of "machine learning" is to give a computer a set of instructions to follow such that if it has some particular experiences/observations it can make some predictions about the outcome of new experiences, kind of like, ya know, _people learning_. In some [advanced applications](https://www.youtube.com/watch?v=gn4nRCC9TwQ), the computer may not have any experiences to begin with and will just have to experiment until it discovers some things about its environment all by itself, which can seem a little creepy but maybe not so magical once we peek under the hood. 
+
+As people, most of us are already pretty good at spotting trends and making predictions about our environment:
 
 _Johnny and Morton both got motorcycles..._ **(observation)**  
 _Maybe I should get a motorcycle, too?_ **(prediction/trend)**  
@@ -22,7 +24,10 @@ _Maybe I should get a motorcycle, too?_ **(prediction/trend)**
 _You ate the last piece of cake?!_ **(observation)**  
 _I CAN NEVER TRUST YOU AGAIN!!!_ **(prediction/trend)**
 
-We can often represent these intuitions visually to help get the point accross to other humans:
+_If Johnny keeps stealing all of the cake..._ **(observation)**  
+_he may become too heavy for his motorcycle. **(prediction/trend)**
+
+We can often represent these intuitions visually to help quickly get the point accross to other humans:
 
 ### Plots
 
