@@ -27,7 +27,7 @@ As people, most of us are already pretty good at spotting trends and making pred
 >_If Johnny keeps stealing all of the cake..._ **(observation)**  
 >_He may become too heavy for his motorcycle._ **(prediction/trend)**
 
-We can often represent these intuitions visually to help quickly get the point accross to other humans:
+We can often represent these intuitions visually to help quickly get the point across to other humans:
 
 ### Plots
 
