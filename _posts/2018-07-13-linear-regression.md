@@ -20,7 +20,7 @@ _Johnny and Morton both got motorcycles..._ **(observation)**
 _Maybe I should get a motorcycle, too?_ **(prediction/trend)**  
 
 _You ate the last piece of cake?!_ **(observation)**  
-_I can never trust you again!_ **(prediction/trend)**
+_I can never trust you again!!!_ **(prediction/trend)**
 
 We can often represent these truths visually to help get the point accross to other humans:
 
