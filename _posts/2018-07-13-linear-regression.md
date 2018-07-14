@@ -10,7 +10,7 @@ I had contemplated the field of machine learning during college, and even took g
 
 With eerie sychronicity, a couple of weeks after my son's birth and while strenuously contemplating _how exactly to stop playing grab-ass and start making something happen_, I received an invitation to an online "Data Science" scholarship competition. It was a dumb competition (i.e., I didn't get selected), but it reignited that same excitement for the field that had captivated me years before. With an endless internet of resources, I began charting my new course.
 
-My intent in this blog is to chronicle my journey up Machine Learning Mountain and provide a place where I can explain my passion hobby, goals and ultimate vision to my family in practical terms. I'll also try to demonstrate personally meaningful implementations of the tools I encounter along the way.
+My intent in this blog is to chronicle my journey up Machine Learning Mountain and provide a place where I can explain my new passion-hobby, goals and ultimate vision to my family in practical terms. I'll also try to demonstrate personally meaningful implementations of the tools I encounter along the way.
 
 ## Sticks and Stones
 
