@@ -10,7 +10,7 @@ I had contemplated the field of AI/machine learning/data analysis during college
 
 With eerie sychronicity, a couple of weeks after my son's birth and while contemplating how to optimise my time allotted for the betterment of my family and the human race, I received an invitation to a Udacity Nanodegree Data Science scholarship competition. It was a simple exercise, but it reignited that same excitement for the field that captivated me years ago. I suddenly had a direction.
 
-My intent in this blog is to chronicle my journey up Machine Learning Mountain and provide a place where I can explain my passion hobby to my family in practical terms, without requiring a background in maths. I'll also try to demonstrate personally meaningful implementations of the tools I encounter along the way.
+My intent in this blog is to chronicle my journey up Machine Learning Mountain and provide a place where I can explain my passion hobby to my family in practical terms. I'll also try to demonstrate personally meaningful implementations of the tools I encounter along the way.
 
 ## Sticks and Stones
 
