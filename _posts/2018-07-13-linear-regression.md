@@ -18,8 +18,8 @@ The basic goal of machine learning is to give a computer a set of experiences an
 
 As humans, most of us are already pretty good at spotting trends and making predictions about our environment:
 
->_Johnny and Morton both got motorcycles..._ **(observation)**  
->_maybe I should get a motorcycle, too?_ **(prediction/trend)**  
+>_Johnny and Morton both got motorcycles._ **(observation)**  
+>_Maybe I should get a motorcycle, too?_ **(prediction/trend)**  
 
 >_You ate the last piece of cake?!_ **(observation)**  
 >_I CAN NEVER TRUST YOU AGAIN!!!_ **(prediction/trend)**
