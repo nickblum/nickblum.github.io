@@ -4,46 +4,30 @@ title:  "Regression and the Grade Descent"
 date:   2018-07-13 09:00:00 -0500
 ---
 
-Nearly four months ago, my son emerged in classic goa'uld fashion from his beloved host and onto our cold, dry planet, crtically judging me for all of my flaws, failures and missed opportunities over the 28 years _that I should have been here preparing things for him_. Perhaps some newly activated dad-neurotransmitters, divine intervention, or a tap on the shoulder from the universal consciousness is responsible for triggering in me a profound impulse to do something a little more significant with each passing moment. The sage advice of my former Scoutmaster has replayed perpetually since, "Alright boys, quit standing around playing grab-ass! Make something happen!"
+Nearly four months ago, my son emerged in magnificent goa’uld fashion from his beloved host and onto our relatively cold, dry planet, sternly critical of me for not making more of my 28-years of preparation. Perhaps it was some newly activated dad-neurotransmitters, divine intervention, or a tap on the shoulder from the ethereal universal consciousness, but I was swiftly imbued with a profound impulse to do something a little more significant with each passing moment. The sage advice of my former Scoutmaster has replayed perpetually since, “Alright boys, quit standing around playing grab-ass! Make something happen!” I still don't know what it means to play grab-ass, but I think I need to make something happen.
 
-Around that same time, I received an invitation to a Udacity Nanodegree Data Science scholarship competition. The competition has been so-so, but the connections and resources I've gained in the process have reignited in me something resembling a direction in which to unfurl my newly acquired sense of urgency. I had explored the idea of data analysis during my senior year of college, and even took graduate-level courses in statistics, "Big Data Analysis" and "Bayesian Networks and Descision Graphs," but software application development was safe and in demand, so I took the broad path in starting my career.
+I had contemplated the field of AI/machine learning/data analysis during college, and even took graduate-level courses in some relevant areas - engineering statistics, differential equations, linear algebra, big data analysis and Bayesian networks - but ultimately took the practical road and settled into an enterprise application development role where I've thoroughly enjoyed creating mental health tools for half a decade.
+
+With eerie sychronicity, a couple of weeks after my son's birth and while contemplating how to optimise my time allotted for the betterment of my family and the human race, I received an invitation to a Udacity Nanodegree Data Science scholarship competition. It was a simple exercise, but it reignited that same excitement for the field that captivated me years ago. I suddenly had a direction.
+
+My intent in this blog is to chronicle my journey up Machine Learning Mountain and provide a place where I can explain my passion hobby to my family in practical terms, without requiring a background in maths. I'll also try to demonstrate personally meaningful implementations of the tools I encounter along the way.
+
+## Sticks and Stones
+
+A couple of the fundamental goals of machine learning are to 1) identify trends and 2) make predictions given a set of observations. But as humans, pattern recognition and predictions are our some of our finest qualities. For example:
+
+_Johnny and Morton both got motorcycles..._ [observation] _Maybe I should get a motorcycle, too?_ [prediction/trend]
+_You ate the last piece of cake?!_ [observation] _I can never trust you again!_ [prediction/trend]
+
+We can often represent these truths visually to help get the point accross to other humans:
+
+### Plots
 
 
 
-## Welcome to GitHub Pages
+### Slopes
 
-You can use the [editor on GitHub](https://github.com/nickblum/nickblum.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nickblum/nickblum.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
