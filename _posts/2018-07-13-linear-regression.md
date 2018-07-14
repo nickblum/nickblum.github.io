@@ -14,9 +14,9 @@ My intent in this blog is to chronicle my journey up Machine Learning Mountain a
 
 ## Sticks and Stones
 
-The fundamental goal of machine learning is to write a set of computer instructions, such that: given some particular experiences &rarr; compute some predictions about the outcome of _new_ experiences. It's kind of like, ya know, _people learning_. In some [advanced applications](https://www.youtube.com/watch?v=gn4nRCC9TwQ), the computer may not have any experiences to begin with; it will just have to experiment until it discovers some things about its environment all by itself. This can seem a little creepy, but maybe not so magical once we take a peek under the hood. 
+The basic goal of machine learning is to give a computer a set of experiences and allow it to make reasonable predictions about the outcome of _new_ experiences of a similar type. It's kind of like, ya know, _people learning_. In some [advanced applications](https://www.youtube.com/watch?v=gn4nRCC9TwQ), the computer may not have any experiences to begin with; it will just have to experiment until it discovers some things about its environment all by itself. This can seem a little creepy, but maybe not so magical once we take a peek under the hood. 
 
-As people, most of us are already pretty good at spotting trends and making predictions about our environment:
+As humans, most of us are already pretty good at spotting trends and making predictions about our environment:
 
 >_Johnny and Morton both got motorcycles..._ **(observation)**  
 >_Maybe I should get a motorcycle, too?_ **(prediction/trend)**  
