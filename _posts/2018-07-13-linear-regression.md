@@ -5,7 +5,7 @@ date:   2018-07-13 09:00:00 -0500
 ---
 Herein lies the very first of an enthralling, indefinite-part series exhibiting my two months of machine learning expertise. I'll attempt to convince you, Dear Reader, that the inevitable Super-Duper Artificial Intelligence that's likely to emerge from the depths of Silicon Valley to kill/enslave/conduct-fascinating-experiments-upon humanity sometime in the next, oh I don't know, six-months or so, also has a soft side that warrants thoughtful contemplation and perhaps even tender embrace. I'd like to present that soft side here.
 	
-I'll be trying to explain some fancy pants machine learning concepts at an accessible level, because 1) I barely know what I'm doing, and 2) my likely audience consists of my darling wife who, despite my best efforts, would prefer spending her time engaged in things not mathy and my infant son who is otherwise occupied with blowing bubbles and force vector analysis (kicking stuff).
+I'll be trying to explain some fancy pants machine learning concepts at an accessible level, because 1) I barely know what I'm doing, and 2) my likely audience consists of my darling wife who, despite my best efforts, would prefer spending her time engaged in things not mathy and my infant son who is otherwise occupied with blowing bubbles and performing force vector analysis (kicking stuff).
 
 ## Sticks and Stones
 
