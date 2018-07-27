@@ -5,7 +5,7 @@ date:   2018-07-13 09:00:00 -0500
 ---
 Herein lies the very first of an indefinite-part series in which I'll attempt to convince you, Dear Reader, that despite the typical scary and magical perception of the inevitable Super-Duper Artificial Intelligence that will kill/enslave/conduct-fascinating-experiments-upon humanity sometime in the next, I don't know, six-months or so, it will certainly also have a soft side that warrants tender embrace. I'd like to present that soft side here.
 	
-I'll be trying to explain some fancy pants machine learning concepts at an accessible level, because 1) I barely know what I'm doing, and 2) my likely audience consists of my darling wife who, despite my best efforts, has better ways to spend her time and my infant son who is still generally immersed in operating his TI-89, holding his liquor and similar baby milestones.
+I'll be trying to explain some fancy pants machine learning concepts at an accessible level, because 1) I barely know what I'm doing, and 2) my likely audience consists of my darling wife who, despite my best efforts, would prefer spending her time on not-math and my infant son who is generally immersed in blowing bubbles and finding new things to kick.
 
 ## Sticks and Stones
 
