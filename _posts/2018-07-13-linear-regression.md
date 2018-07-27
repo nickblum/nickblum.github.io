@@ -3,7 +3,7 @@ layout: post
 title:  "What am I doing? Part 1: Linear Regression and Gradient Descent"
 date:   2018-07-13 09:00:00 -0500
 ---
-Herein lies the very first of an enthralling, indefinite-part series; I'll attempt to convince you, Dear Reader, that despite the typical scary/magical perception of the inevitable Super-Duper Artificial Intelligence likely to kill/enslave/conduct-fascinating-experiments-upon humanity sometime in the next, oh I don't know, six-months or so, there's also a soft side that warrants thoughtful contemplation and perhaps even tender embrace. I'd like to present that soft side here.
+Herein lies the very first of an enthralling, indefinite-part series. I'll attempt to convince you, Dear Reader, that despite the typical scary/magical perception of the inevitable Super-Duper Artificial Intelligence likely to kill/enslave/conduct-fascinating-experiments-upon humanity sometime in the next, oh I don't know, six-months or so, there's also a soft side that warrants thoughtful contemplation and perhaps even tender embrace. I'd like to present that soft side here.
 	
 I'll be trying to explain some fancy pants machine learning concepts at an accessible level, because 1) I barely know what I'm doing, and 2) my likely audience consists of my darling wife who, despite my best efforts, would prefer spending her time engaged in anything but math and my infant son who is only just beginning to operate his Ti-89 and similar baby milestones.
 
