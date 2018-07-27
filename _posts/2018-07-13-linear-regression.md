@@ -16,8 +16,8 @@ As humans, most of us are already pretty good at spotting trends and making pred
 >_Johnny and Morton both got motorcycles._ **(observation)**  
 >_Maybe I should get a motorcycle, too?_ **(prediction/trend)**  
 
->_You ate the last piece of cake?!_ **(observation)**  
->_I CAN NEVER TRUST YOU AGAIN!!!_ **(prediction/trend)**
+>_You ate the last piece of cake?_ **(observation)**  
+>_I shall never trust you again._ **(prediction/trend)**
 
 We can often represent these intuitions visually to help quickly get the point across to other humans:
 
