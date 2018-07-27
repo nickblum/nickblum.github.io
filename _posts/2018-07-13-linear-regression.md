@@ -9,7 +9,7 @@ I'll be trying to explain some fancy pants machine learning concepts at an acces
 
 ## Sticks and Stones
 
-One basic goal of machine learning is to give a computer a set of experiences and allow it to make reasonable predictions about the outcome of _new_ experiences of a similar type. It's kind of like _people learning_. In some [advanced applications](https://www.youtube.com/watch?v=gn4nRCC9TwQ){:target="_blank"}, the computer may not have any experiences to begin with; it will just have to experiment until it discovers some things about its environment all by itself. This can seem a little magical, but perhaps less so once we take a peek under the hood. 
+The basic goal of machine learning is to give a computer a set of experiences and allow it to make reasonable predictions about the outcome of _new_ experiences of a similar type. It's kind of like _people learning_. In some [advanced applications](https://www.youtube.com/watch?v=gn4nRCC9TwQ){:target="_blank"}, the computer may not have any experiences to begin with; it will just have to experiment until it discovers some things about its environment all by itself. This can seem a little magical, but perhaps less so once we take a peek under the hood. 
 
 As humans, most of us are already pretty good at spotting trends and making predictions about our environment:
 
