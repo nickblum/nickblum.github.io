@@ -1,0 +1,60 @@
+:root {
+    --main-bg: #1f2020;
+    --main-bg-light: #4e5050;
+    --main-bg-hover: #777979;
+    --main-fg: #dddcde;
+    --main-fg-hover: #c7c7c7;
+    --main-fg-highlight: #ebe9ec;
+    --main-width: 400px;
+    --main-input-height: 40px;
+    --main-input-br: .2em; /* border radius*/
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+html,
+body {
+    height: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: var(--main-fg);
+}
+body {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0;
+}
+.header-menu,
+footer {
+    display: flex;
+    align-items: center;
+    width: 100%;
+}
+.header-menu,
+.demo-button {
+    background: var(--main-bg);
+    color: var(--main-fg);
+}
+.demo-button:hover{
+    color: #fff;
+    transition: color 0.5s ease;
+}
+.header-menu {
+    justify-content: flex-start;
+    height: 60px;
+    padding: 0 20px;
+}
+.demo-button {
+    border: none;
+    cursor: pointer;
+    font-size: large;
+}
+ul li {
+    display: inline-block;
+    padding: 0 10px;
+    list-style: none;
+}
