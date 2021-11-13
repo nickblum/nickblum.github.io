@@ -5,7 +5,7 @@
     --main-fg: #dddcde;
     --main-fg-hover: #c7c7c7;
     --main-fg-highlight: #ebe9ec;
-    --main-width: 400px;
+    --main-width: 360px;
     --main-input-height: 40px;
     --main-input-br: .2em; /* border radius*/
 }
@@ -24,7 +24,6 @@ body {
     background-color: var(--main-fg);
 }
 body {
-    display: flex;
     flex-wrap: wrap;
     margin: 0;
 }
@@ -35,6 +34,7 @@ footer {
     width: 100%;
 }
 .header-menu,
+.header-menu a,
 .demo-button {
     background: var(--main-bg);
     color: var(--main-fg);
@@ -47,14 +47,49 @@ footer {
     justify-content: flex-start;
     height: 60px;
     padding: 0 20px;
+    margin-bottom: 30px;
 }
-.demo-button {
+.demo-button,
+.header-menu a {
     border: none;
     cursor: pointer;
     font-size: large;
+}
+.header-menu a{
+    text-decoration: none;
 }
 ul li {
     display: inline-block;
     padding: 0 10px;
     list-style: none;
+}
+section {
+    display: block;
+    width: 100%;
+}
+.section-row {
+    float: left;
+    overflow: auto;
+    width: 100%;
+    padding-bottom: 16px;
+}
+.demo-row {
+    margin: 0 0 30px 4%;
+    overflow: auto;
+    width: var(--main-width);
+    clear:left;
+    float: left;
+}
+.nb-icon {
+    position: relative;
+    top: 6px; /*Change this to adjust the icon*/
+}
+code {
+    background-color: var(--main-fg-hover);
+    border: 1px solid var(--main-bg-light);
+    display: block;
+    padding: 20px;
+    width: 420px;
+    float: left;
+    display: block;
 }
