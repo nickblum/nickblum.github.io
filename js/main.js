@@ -34,7 +34,7 @@ function demoDuration($demoBox){
 
 function demoRequired($demoBox){
     var $demoLink = $( '<div class="demo-row">' ).append(
-        $('<a class="demo-link" href="https://github.com/nickblum/requiredjs/">').html('[source]')
+        $('<a class="demo-link" href="https://github.com/nickblum/required_js/">').html('[source]')
     );
     var $demoRow1 = $( '<div id="demoDurationRow" class="demo-row">' ).append(
         $('<input id="txt1" placeholder="#txt1">')
