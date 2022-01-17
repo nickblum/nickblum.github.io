@@ -1,14 +1,19 @@
 $(function(){
-    demoDuration
     $( '#demoDuration, #demoRequired' ).on('click', function(){
         displayDemo(this.id)
     });
+    $('#demoDuration').click();
 });
 
 function displayDemo(demoID){
     
     var $demoBox = $('#demoBox');
     $demoBox.empty();
+
+    // underline the
+    $('.demo-button').removeClass('nav-active');
+    $('#'+demoID).addClass('nav-active')
+
 
     if (typeof window[demoID] === "function") {
         window[demoID]($demoBox);

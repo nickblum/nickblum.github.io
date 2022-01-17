@@ -39,6 +39,9 @@ footer {
     background: var(--main-bg);
     color: var(--main-fg);
 }
+.nav-active {
+    border-bottom: 2px solid var(--main-fg) !important;
+}
 .demo-button:hover{
     color: #fff;
     transition: color 0.5s ease;
